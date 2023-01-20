@@ -1,6 +1,6 @@
-baseURL: https://dshah-wlw.github.io/
+baseURL: https://packet0001.github.io/
 languageCode: en-us
-title: dshah's site
+title: Packet's site
 paginate: 5
 theme: PaperModX
 
@@ -12,16 +12,16 @@ params:
   ShowWordCount: true
   enableRobotsTXT: true
   pygmentsUseClasses: true
-  description: my site
+  description: Friendly Potato
   author:
-    - dshah
+    - Yas
   mainSections:
     - posts
 
 # set up home info details
   homeInfoParams:
       Title: Hi there 👋
-      Content: My name is dshah
+      Content: My name is Yas
   socialIcons:
     - name: github-simple
       url: "https://github.com/dshah-wlw"
